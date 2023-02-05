@@ -1,12 +1,12 @@
-import 'package:app_attandance/Home.dart';
+import 'package:app_attandance/pagess/Home.dart';
 import 'package:app_attandance/loging.dart';
 // import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
-import 'package:app_attandance/makepdf.dart';
-import 'package:app_attandance/mainpage.dart';
+import 'package:app_attandance/pagess/makepdf.dart';
+import 'package:app_attandance/pagess/mainpage.dart';
 import 'package:flutter/material.dart';
-import 'package:app_attandance/add.dart';
+import 'package:app_attandance/pagess/add.dart';
 
 void main() {
   // WidgetsFlutterBinding.ensureInitialized();

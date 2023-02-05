@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:app_attandance/Home.dart';
+import 'package:app_attandance/pagess/Home.dart';
 import 'package:app_attandance/imagewidget.dart';
 import 'package:app_attandance/mytext.dart';
 import 'package:app_attandance/singup.dart';

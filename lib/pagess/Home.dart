@@ -1,5 +1,5 @@
-import 'package:app_attandance/add.dart';
-import 'package:app_attandance/mainpage.dart';
+import 'package:app_attandance/pagess/add.dart';
+import 'package:app_attandance/pagess/mainpage.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
